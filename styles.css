@@ -1,0 +1,45 @@
+html, body{
+    background-color: #F4C34B;
+    font-family: 'Muli', sans-serif;
+}
+#main{
+   
+}
+#title{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+#img-div{
+     background-color: white;
+     text-align: center;
+     margin-left: 40px;
+     margin-right: 40px;
+}
+img, #image{
+    border-radius: 50%;
+
+    max-width:100%;
+    height:auto;
+    padding:20px;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#img-caption{
+    font-size: 20px;
+}
+#tribute-info{
+    text-align: left;
+    display: inline-block;
+    list-style-position:none;
+}
+a:visited{
+    color:purple;
+}
+
+footer {
+    text-align: center;
+}
