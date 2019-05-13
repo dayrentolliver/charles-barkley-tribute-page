@@ -15,5 +15,6 @@ Dayren Tolliver
 
 ### Things I learned:
 * Learned the difference between CSS ids and classes
+* Learned how to italicize words
 * Learned how to change the color of a visited link
 * Learned how to make a clicked link open in a new tab
