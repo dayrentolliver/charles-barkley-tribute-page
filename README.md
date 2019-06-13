@@ -1,6 +1,6 @@
 # tribute-page
 Created a Charles Barkley Tribute page for a freeCodeCamp assignment.
-View site here: https://dayrentolliver.github.io/charles-barkley-tribute-page/
+View site here: https://dayrentolliver.github.io/tribute-page/
 ### Author(s):
 Dayren Tolliver
 
