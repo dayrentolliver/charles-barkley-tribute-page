@@ -18,3 +18,6 @@ Dayren Tolliver
 * Learned how to italicize words
 * Learned how to change the color of a visited link
 * Learned how to make a clicked link open in a new tab
+
+### Future Features
+* Implement more responsiveness
