@@ -23,5 +23,6 @@ Dayren Tolliver
 * Implement more responsiveness
 
 ### Before
+This was the first iteration of thr tribute page <br/>
 ![First iteration of Tribute Page](https://media.giphy.com/media/Y0UWaZnHM7LLWaOQZl/giphy.gif)
 
