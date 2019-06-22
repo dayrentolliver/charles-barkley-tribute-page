@@ -21,3 +21,6 @@ Dayren Tolliver
 
 ### Future Features
 * Implement more responsiveness
+
+### Before
+![Site before redesign](oldbarkleysite.mp4)
