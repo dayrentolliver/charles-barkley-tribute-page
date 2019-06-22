@@ -23,4 +23,5 @@ Dayren Tolliver
 * Implement more responsiveness
 
 ### Before
-![Site before redesign](oldbarkleysite.mp4)
+![First iteration of Tribute Page](https://media.giphy.com/media/Y0UWaZnHM7LLWaOQZl/giphy.gif)
+
