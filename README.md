@@ -21,6 +21,7 @@ Dayren Tolliver
 
 ### Future Features
 * Implement more responsiveness
+* Add a slideshow
 
 ### Before
 This was the first iteration of the tribute page <br/>
