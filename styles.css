@@ -1,45 +1,64 @@
-html, body{
-    background-color: #F4C34B;
+html body{
+    margin: 0;
+    padding: 0;
     font-family: 'Muli', sans-serif;
-}
-#main{
-   
-}
-#title{
+    background-color: #F4C34B;
     text-align: center;
 }
-h2{
-    text-align: center;
-}
-#img-div{
-     background-color: white;
-     text-align: center;
-     margin-left: 40px;
-     margin-right: 40px;
-}
-img, #image{
-    border-radius: 50%;
 
-   max-width:100%;
-    height:auto;
-    padding:20px;
-    
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.header{
+    top:0;
+    position: sticky;
+    background-color: white;
+    grid-area: header;
 }
-#img-caption{
-    font-size: 20px;
-}
-#tribute-info{
-    text-align: left;
+
+li {
+    list-style: none;
     display: inline-block;
-    list-style-position:none;
 }
-a:visited{
-    color:purple;
+
+.early-life{
+    grid-area: early-life;
+}
+
+.collegiate-career {
+    grid-area: collegiate-career;
+}
+
+.nba-career {
+    grid-area: nba-career;
+}
+
+.life-after-retirement {
+    grid-area: life-after-retirement;
+}
+
+.more {
+    grid-area: more;
+}
+
+.section {
+    border: 1px solid black;
+    border-radius: 25px;
+    background-color: white;
+    margin: 1%;
 }
 
 footer {
-    text-align: center;
+    grid-area: footer;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: repeat(7, 175px);
+    grid-template-areas:
+    "header header header"
+    "early-life early-life early-life"
+    "collegiate-career collegiate-career collegiate-career"
+    "nba-career nba-career nba-career"
+    "life-after-retirement life-after-retirement life-after-retirement"
+    "more more more"
+    "footer footer footer";
 }
